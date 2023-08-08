@@ -15,7 +15,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        home: homePage(),
+        home: HomePage(),
         theme: ThemeData(
           scaffoldBackgroundColor: Color(0xFF2f5f9),
         ));
