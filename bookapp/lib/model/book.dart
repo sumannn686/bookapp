@@ -1,6 +1,6 @@
 final data = [
   {
-    'title': 'To Kill a Mocking Bird',
+    'title': 'Mocking Bird',
     'imageUrl':
         'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/440px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg',
     'detail':
@@ -10,30 +10,29 @@ final data = [
   },
   {
     'title': 'Harry Potter',
-    'imageUrl':
-        'https://m.media-amazon.com/images/I/91eopoUCjLL._SL828_.jpg',
+    'imageUrl': 'https://m.media-amazon.com/images/I/91eopoUCjLL._SL828_.jpg',
     'detail':
         'I never expected any sort of success with \'Mockingbird.\' ... I was hoping for a quick and merciful death at the hands of the reviewers but, at the same time, I sort of hoped someone would like it enough to give me encouragement. Public encouragement. ',
     'rating': '⭐⭐⭐⭐',
     'genre': 'Drama'
   },
   {
-    'title': 'To Kill a Mocking Bird',
+    'title': 'Karnali Blues',
     'imageUrl':
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/440px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg',
+        'https://tse2.mm.bing.net/th?id=OIP.CG97RHvhxnU5NK2jRVNwWAHaK9&pid=Api&P=0&h=220',
     'detail':
         'I never expected any sort of success with \'Mockingbird.\' ... I was hoping for a quick and merciful death at the hands of the reviewers but, at the same time, I sort of hoped someone would like it enough to give me encouragement. Public encouragement. ',
     'rating': '⭐⭐⭐⭐⭐',
-    'genre': 'Thriller'
+    'genre': 'LifeStyle'
   },
   {
-    'title': 'To Kill a Mocking Bird',
+    'title': 'Bhagavat Gita',
     'imageUrl':
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/440px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg',
+        'https://tse3.mm.bing.net/th?id=OIP.E2ndrBfA7QOmFJQOdzst8wHaNI&pid=Api&P=0&h=220',
     'detail':
         'I never expected any sort of success with \'Mockingbird.\' ... I was hoping for a quick and merciful death at the hands of the reviewers but, at the same time, I sort of hoped someone would like it enough to give me encouragement. Public encouragement. ',
     'rating': '⭐⭐⭐⭐⭐',
-    'genre': 'Thriller'
+    'genre': 'Self help'
   }
 ];
 
