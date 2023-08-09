@@ -23,7 +23,8 @@ class HomePage extends StatelessWidget {
           // foregroundColor: Colors.white,
           //   backgroundColor: Color.fromRGBO(255, 255, 150, 0.5),
           //  backgroundColor: Color.fromARGB(, 255, 255, 150),
-          title: Text('Hi John,'),
+          title: Text('BookMandu', textAlign: TextAlign.center),
+
           actions: [
             Icon(CupertinoIcons.search),
             SizedBox(

@@ -84,7 +84,12 @@ class detailPage extends StatelessWidget {
                           onPressed: () {},
                           child: Text("Read More")),
                     ),
-                    OutlinedButton(onPressed: () {}, child: Text("More Info"))
+                    OutlinedButton(
+                        onPressed: () {
+                          Navigator.of(context)
+                              .pop(); // to go back to the same page
+                        },
+                        child: Text("More Info"))
                   ],
                 )
               ]),
